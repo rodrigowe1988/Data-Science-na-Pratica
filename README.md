@@ -3,11 +3,11 @@
 Estudos do Curso de Data Science na Prática com Carlos Melo
 
 
-##Módulo 01 - Introdução ao Data Science
+## Módulo 01 - Introdução ao Data Science
 
 * Dados do Airbnb
 
-##Módulo 02 - Manipulando e Explorando Dados
+## Módulo 02 - Manipulando e Explorando Dados
 
 * Introdução ao Pandas
 * Criando DataFrames
