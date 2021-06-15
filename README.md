@@ -20,7 +20,7 @@ Estudos do Curso de Data Science na Prática com Carlos Melo
 * Crimes do Rio de Janeiro
 * Limpeza de dados,outliers e valores ausentes
 
-##Módulo 03 - Visualizando Dados
+## Módulo 03 - Visualizando Dados
 
 * Introdução à visualização de dados
 * 
