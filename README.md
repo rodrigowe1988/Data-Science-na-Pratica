@@ -27,4 +27,9 @@ Estudos do Curso de Data Science na Prática com Carlos Melo
 * Gráfico de Linhas
 * Histograma 
 * Gráfico de Barras
-* 
+* Gráfico de Pizza
+* Gráfico de Dispersão 
+* BoxPlot
+* Gráfico de Waffle
+* WordCloud
+* Visualizações Avançadas com o Seaborn
