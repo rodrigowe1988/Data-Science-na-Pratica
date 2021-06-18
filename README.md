@@ -33,3 +33,9 @@ Estudos do Curso de Data Science na Prática com Carlos Melo
 * Gráfico de Waffle
 * WordCloud
 * Visualizações Avançadas com o Seaborn
+
+## Módulo 04 - Introdução ao Machine Learning
+
+* 
+
+
