@@ -23,4 +23,8 @@ Estudos do Curso de Data Science na Prática com Carlos Melo
 ## Módulo 03 - Visualizando Dados
 
 * Introdução à visualização de dados
+* Conhecendo o Matplolib
+* Gráfico de Linhas
+* Histograma 
+* Gráfico de Barras
 * 
